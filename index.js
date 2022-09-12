@@ -6,7 +6,7 @@ if (estConnecte) {
 } else {
  console.log("Connexion échoué")
 }
-
+*/
 
 let scorePSG = 12;
 let scoreRealMadrid = 12;
@@ -18,11 +18,12 @@ if (scorePSG > scoreRealMadrid){
 }else {
  console.log("Quoi ! match null !!")
 }
-*/
+
+
 /*
 
 let maVariable = true;
-
+let monMessage = "";
 
 if (maVariable){
  let monMessage = "Bienvenu dans votre page de profil"
