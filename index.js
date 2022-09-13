@@ -20,11 +20,9 @@ class Livre {
     }
 }
 
-
-/*
 let monLivre = new Livre("La planète des singes", "Pierre Boulle", 274);
-console.log(monLivre.titre)
-*/
+console.log(monLivre.auteur)
+
 
 /*//Cette ligne crée l'objet suivant :
 {
