@@ -19,16 +19,3 @@ if (scorePSG > scoreRealMadrid){
  console.log("Quoi ! match null !!")
 }
 
-
-/*
-
-let maVariable = true;
-let monMessage = "";
-
-if (maVariable){
- let monMessage = "Bienvenu dans votre page de profil"
-}else {
- let monMessage = "Vous n'etes pas connecté"
-}
-console.log(monMessage)
-*/
